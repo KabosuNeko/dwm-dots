@@ -9,7 +9,7 @@ My personal dots file
 sudo pacman -S kitty fish rofi rofi-greenclip picom dunst fastfetch flameshot feh xclip polkit-gnome gnome-keyring libsecret brightnessctl pipewire wireplumber pipewire-pulse lxappearance redshift
 
 # AUR Packages
-yay -S python-pywal16 colorz cava bibata-cursor-theme tela-icon-theme-git gruvbox-material-gtk-theme-git
+yay -S python-pywal16 colorz cava bibata-cursor-theme tela-icon-theme-git gruvbox-material-gtk-theme-git ttf-maplemono-nf-unhinted
 ```
 
 ### 2. Install
