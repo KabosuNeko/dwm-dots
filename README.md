@@ -1,5 +1,5 @@
 # ⛺ Cozy dots
-My personal dots file
+My personal dwm dots file
 
 ## Setup
 
